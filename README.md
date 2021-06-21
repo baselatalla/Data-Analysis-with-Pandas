@@ -11,4 +11,4 @@ Cycle Share Data set - Bicycle Trip Data from Seattle's Cycle Share System
 - 
 ## Links:
 
-PR Link :[chess](https://github.com/baselatalla/Data-Analysis-with-Pandas/pull/1)
+PR Link :[pr](https://github.com/baselatalla/Data-Analysis-with-Pandas/pull/1)
